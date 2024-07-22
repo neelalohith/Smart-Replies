@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "311702025124",
+    "project_id": "smart-replies-f661c",
+    "storage_bucket": "smart-replies-f661c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311702025124:android:091b79ae26af649e808731",
+        "android_client_info": {
+          "package_name": "com.example.smart_replies"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE3HVM-4sxeaXt0O6nmhh9lkj6MljW0T8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
